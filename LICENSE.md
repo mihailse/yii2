@@ -1,5 +1,5 @@
 The Yii framework is free software. It is released under the terms of
-the following BSD License.
+the following BSD License. This is Probe.
 
 Copyright © 2008 by Yii Software LLC (http://www.yiisoft.com)
 All rights reserved.
